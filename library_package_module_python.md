@@ -1,4 +1,5 @@
-***<---------------In python diffferences between pakages, modules and libraries . with example--------------->***
+*** <---------------In python diffferences between pakages, modules and libraries . with example---------------> ***
+
 Perfect! This is a very common confusion when learning Python. Let’s carefully break down the differences between **modules, packages, and libraries** with **examples**.
 
 ---
